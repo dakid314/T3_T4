@@ -1,0 +1,6 @@
+,Classifier_Name,Optimitied_Param,Model_Path
+0,LogisticRegression,"{'C': 0.5168280361330351, 'class_weight': 'balanced', 'max_iter': 1000, 'penalty': 'l2', 'solver': 'lbfgs'}",/mnt/md0/Public/T3_T4/lasso/new/2/0/LogisticRegression.pkl
+1,LogisticRegression,"{'C': 0.3581882374204034, 'class_weight': 'balanced', 'max_iter': 1000, 'penalty': 'l2', 'solver': 'lbfgs'}",/mnt/md0/Public/T3_T4/lasso/new/2/1/LogisticRegression.pkl
+2,LogisticRegression,"{'C': 0.22203765016256793, 'class_weight': 'balanced', 'max_iter': 1000, 'penalty': 'l2', 'solver': 'lbfgs'}",/mnt/md0/Public/T3_T4/lasso/new/2/2/LogisticRegression.pkl
+3,LogisticRegression,"{'C': 0.5701115088662566, 'class_weight': 'balanced', 'max_iter': 1000, 'penalty': 'l2', 'solver': 'lbfgs'}",/mnt/md0/Public/T3_T4/lasso/new/2/3/LogisticRegression.pkl
+4,LogisticRegression,"{'C': 0.47640828843928684, 'class_weight': 'balanced', 'max_iter': 1000, 'penalty': 'l2', 'solver': 'lbfgs'}",/mnt/md0/Public/T3_T4/lasso/new/2/4/LogisticRegression.pkl

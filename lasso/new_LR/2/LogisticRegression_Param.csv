@@ -1,0 +1,6 @@
+,Classifier_Name,Optimitied_Param,Model_Path
+0,LogisticRegression,"OrderedDict([('C', 0.8215617496913898), ('class_weight', 'balanced'), ('max_iter', 1000), ('penalty', 'l2'), ('solver', 'lbfgs')])",new_LR/2/0/LogisticRegression.pkl
+1,LogisticRegression,"OrderedDict([('C', 0.2458473310123507), ('class_weight', 'balanced'), ('max_iter', 1000), ('penalty', 'l2'), ('solver', 'lbfgs')])",new_LR/2/1/LogisticRegression.pkl
+2,LogisticRegression,"OrderedDict([('C', 0.10548124543068492), ('class_weight', 'balanced'), ('max_iter', 1000), ('penalty', 'l2'), ('solver', 'lbfgs')])",new_LR/2/2/LogisticRegression.pkl
+3,LogisticRegression,"OrderedDict([('C', 0.4745366763591521), ('class_weight', 'balanced'), ('max_iter', 1000), ('penalty', 'l2'), ('solver', 'lbfgs')])",new_LR/2/3/LogisticRegression.pkl
+4,LogisticRegression,"OrderedDict([('C', 0.37620490475380786), ('class_weight', 'balanced'), ('max_iter', 1000), ('penalty', 'l2'), ('solver', 'lbfgs')])",new_LR/2/4/LogisticRegression.pkl

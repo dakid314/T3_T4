@@ -1,0 +1,10 @@
+Hydrophobic/hydrophilic alphabet	
+
+hydrophilic-hydrophilic	[2,2]
+hydrophilic-hydrophilic-hydrophilic	[2,2,2]
+hydrophilic-hydrophilic-hydrophobic	[2,2,1]
+hydrophilic-hydrophobic-hydrophilic	[2,1,2]
+hydrophilic-hydrophobic-hydrophobic	[2,1,1]
+hydrophobic-hydrophilic-hydrophilic	[1,2,2]
+hydrophobic-hydrophilic-hydrophobic	[1,2,1]
+hydrophobic-hydrophobic-hydrophilic	[1,1,2]
